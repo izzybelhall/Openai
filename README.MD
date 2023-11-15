@@ -13,3 +13,7 @@
 ## Errors
 
 -Current errors are Error 405, POST method not allowed
+
+## API Key
+
+- Message me on Slack (Code:You mentors and participants) for .env file 
