@@ -3,7 +3,7 @@
 ## Installation
 
 - Clone Repo
-  -Go into repo
+  - Go into repo
 - Install dependencies
 - $ npm install
 - Run node server.js to make sure port is running on 3000
